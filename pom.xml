@@ -13,6 +13,7 @@
 
     <modules>
         <module>level-1-grades</module>
+        <module>level-2-shop</module>
     </modules>
 
     <properties>
