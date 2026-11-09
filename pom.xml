@@ -14,6 +14,7 @@
     <modules>
         <module>level-1-grades</module>
         <module>level-2-shop</module>
+        <module>level-3-orders</module>
     </modules>
 
     <properties>
